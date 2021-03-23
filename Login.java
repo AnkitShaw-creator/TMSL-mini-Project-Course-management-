@@ -6,7 +6,6 @@ import java.awt.*;
 import java.awt.event.*;
 public class Login extends JFrame
 {	
-	
 	public static void main(String[] args)
 	{	
 		EventQueue.invokeLater(new Runnable() {
