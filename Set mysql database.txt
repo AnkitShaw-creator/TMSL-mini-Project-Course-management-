@@ -1,0 +1,1 @@
+mysql -u root -p < c:\user\download\user.sql
